@@ -1,0 +1,21 @@
+---
+title: "Building Modern Web Applications with Python"
+author: "Your Name"
+date: "2025"
+lang: "en-US"
+rights: "Copyright © 2025 Your Name. All Rights Reserved."
+description: |
+  A comprehensive guide to building production-ready web applications
+  using Python, covering frameworks, databases, and deployment strategies.
+  Perfect for developers transitioning to web development or expanding
+  their Python skills.
+keywords:
+  - Python
+  - Web Development
+  - Django
+  - Flask
+  - REST APIs
+  - Backend Development
+publisher: "Self-Published"
+cover-image: "images/cover.png"
+---
